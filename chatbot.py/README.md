@@ -55,21 +55,6 @@ For AI recipe generation, I integrated the OpenAI API to generate intelligent co
 - Antigravity
 
 ---
-
-# 📂 Project Structure
-
-```bash
-smartchef-ai/
-│
-├── index.html
-├── backend/
-│   └── app.py
-
-
-
-
-
-
 # ⚡ How SmartChef AI Works
 
 1. User opens the SmartChef AI website.
@@ -98,3 +83,19 @@ smartchef-ai/
 7. Users can continue asking for different recipes and receive AI-generated cooking instructions in real time.
 
 8. SmartChef AI acts like an intelligent cooking assistant that helps users learn and prepare recipes easily.
+
+# 📂 Project Structure
+
+```bash
+smartchef-ai/
+│
+├── index.html
+├── backend/
+│   └── app.py
+
+
+
+
+
+
+.
